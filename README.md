@@ -1,25 +1,44 @@
 # Loja-de-departamento-Banco-de-dados---faculdade
 Exercício passado e realizado em sala de aula na faculdade matéria: Banco de dados
 
-Loja de Departamento
+# 🏬 Loja de Departamento
 
-Quer fazer um B.I. Business Inteligence para verificar as oportunidades, riscos
+Projeto de **Business Intelligence (BI)** desenvolvido para análise de vendas de uma loja de departamento, com o objetivo de identificar:
 
-Requisito Funcional
-Verificar as vendas
-Dados levantados:
-Produto, valor
-Filial – loja
-Vendedor
-Estado
-Cidade
-Nr_venda,  dt_venda e vl_venda
+- 📈 Oportunidades
+- ⚠️ Riscos 
 
+---
 
-Regras de Negócio
-1 venda só tem um vendedor
-1 venda só tem uma loja
-1 venda só tem um produto
-1 venda só tem uma cidade e seu estado
+## 📌 Requisito Funcional
+
+Realizar a verificação das vendas
+
+---
+
+## 📊 Dados Levantados
+
+Os dados utilizados no projeto são:
+
+- Produto
+- Valor
+- Filial / Loja
+- Vendedor
+- Estado
+- Cidade
+- Número da venda (`nr_venda`)
+- Data da venda (`dt_venda`)
+- Valor da venda (`vl_venda`)
+
+---
+
+## 🧠 Regras de Negócio
+
+- Uma venda possui apenas **um vendedor**
+- Uma venda pertence a apenas **uma loja**
+- Uma venda possui apenas **um produto**
+- Uma venda está vinculada a apenas **uma cidade e estado**
+
+---
 
 

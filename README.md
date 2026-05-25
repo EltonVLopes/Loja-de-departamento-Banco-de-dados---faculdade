@@ -41,4 +41,11 @@ Os dados utilizados no projeto são:
 
 ---
 
+## 🛠️ Ferramentas Utilizadas
+
+- brModelo
+- MySQL
+
+---
+
 
